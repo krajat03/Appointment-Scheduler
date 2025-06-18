@@ -24,4 +24,4 @@ Ideal Use Cases:
 1. Medical Offices: This program can be used in medical offices to schedule appointments and collect patient information.
 2. Healthcare Providers: Healthcare providers can use this program to manage appointments and patient data.
 
-Feel free to modify and enhance the program to suit your needs!
+Feel free to modify and enhance the program to suit your needs
